@@ -25,6 +25,19 @@
 
 ---
 
+### **Required Permissions:**
+When creating your Hugging Face token, make sure to check:
+- ✅ **Write** - Required for model uploads to leaderboard
+- ✅ **Read** - Required for model downloads
+
+### **Required Permissions:**
+When creating your Hugging Face token, make sure to check:
+- ✅ **Write** - Required for model uploads to leaderboard
+- ✅ **Read** - Required for model downloads
+- ❌ **Delete** - Not needed (optional)
+
+
+
 ## ⚠️ Prerequisites
 
 **System Requirements:**
